@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^9.105.4",
     "@react-three/fiber": "^8.16.2",
-    "@sentry/nextjs": "^7.105.0",
+    "@sentry/nextjs": "^8.13.0",
     "@tabler/icons-react": "^3.1.0",
     "@types/three": "^0.163.0",
     "class-variance-authority": "^0.7.0",
