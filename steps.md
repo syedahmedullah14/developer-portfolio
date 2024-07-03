@@ -8,4 +8,6 @@
 
 ## Added a provider.tsx in app and wrapped the app layout in ThemeProvider with dark theme as default...
 
-## Added other UI components
+## Added other UI components like bento grid and developed the about section
+
+## Added
