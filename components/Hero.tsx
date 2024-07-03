@@ -2,7 +2,11 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <div>
+        <div className='pb-20 pt-36'>
+             
+        </div>
+    </div>
   )
 }
 
