@@ -1,6 +1,8 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
+import MagicButton from './ui/MagicButton'
+import { FaLocationArrow } from 'react-icons/fa'
 
 const Hero = () => {
   return (
@@ -34,6 +36,9 @@ const Hero = () => {
                     Hi, I&apos;m Shareef, A Data scientist based in India. 
                 </p>
 
+                <a href="#about">
+                    <MagicButton title="Show my work" icon={<FaLocationArrow />} position='right'/>
+                </a>
             </div>
         </div>
 
