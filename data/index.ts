@@ -82,7 +82,13 @@ export const projects = [
     title: "Inquiry Bot for an EdTEch Company",
     des: "Developed and deployed the Scaler Inquiry Bot, an advance AI-powered assistant for efficiently handling user queries related to curriculum, mentorship, and placement policies, leveraging Gen AI.",
     img: "/chatbot.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: [
+      "/tensorflow.svg",
+      "/aws.svg",
+      "/dock.svg",
+      "/openai.svg",
+      "/lang.svg",
+    ],
     link: "/ui.earth.com",
   },
   {
@@ -90,7 +96,13 @@ export const projects = [
     title: "Automated price estimation of used Cars for a CarTrade Company",
     des: "Designed and implemented a machine learning model to predict car prices for Car24, an online platform for buying and selling used cars.",
     img: "/price-p.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: [
+      "/tensorflow.svg",
+      "/azure.svg",
+      "/dock.svg",
+      "/openai.svg",
+      "/lang.svg",
+    ],
     link: "/ui.yoom.com",
   },
   {
@@ -98,7 +110,13 @@ export const projects = [
     title: "Forecasting Wikipedia Page Views for Optimal Ad Placement.",
     des: "Developed and implemented a machine learning model to forecast daily Wikipedia page views for Ad Ease, an ads and marketing company. Analyzed data from 145k pages to optimize ad placements, enhancing ad performance across various languages and regions.",
     img: "/wiki.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: [
+      "/tensorflow.svg",
+      "/aws.svg",
+      "/dock.svg",
+      "/openai.svg",
+      "/lang.svg",
+    ],
     link: "/ui.aiimg.com",
   },
   {
@@ -106,7 +124,13 @@ export const projects = [
     title: "Automated Driver Attrition Prediction for Ola",
     des: "Developed and implemented ensemble models to predict driver attrition at Ola, focusing on demographic, tenure, and performance data. Enhanced retention strategies by analyzing key factors influencing driver turnover and providing actionable insights.",
     img: "/driver.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: [
+      "/tensorflow.svg",
+      "/azure.svg",
+      "/dock.svg",
+      "/openai.svg",
+      "/lang.svg",
+    ],
     link: "/ui.apple.com",
   },
 ];
