@@ -10,4 +10,4 @@
 
 ## Added other UI components like bento grid and developed the about section
 
-## Added
+## Added all sections with respective components
