@@ -89,7 +89,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "github.com/SyedShareefShahzer/Scaler-Inquiry-Bot",
+    link: "https://github.com/SyedShareefShahzer/Scaler-Inquiry-Bot",
   },
   {
     id: 2,
@@ -103,7 +103,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "github.com/SyedShareefShahzer/Cars24-Used-Car-Price-Prediction",
+    link: "https://github.com/SyedShareefShahzer/Cars24-Used-Car-Price-Prediction",
   },
   {
     id: 3,
@@ -117,7 +117,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "github.com/SyedShareefShahzer/Ad-Ease-Page-View-Forecasting",
+    link: "https://github.com/SyedShareefShahzer/Ad-Ease-Page-View-Forecasting",
   },
   {
     id: 4,
@@ -131,7 +131,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "github.com/SyedShareefShahzer/OLA-Driver-Attrition-Prediction",
+    link: "https://github.com/SyedShareefShahzer/OLA-Driver-Attrition-Prediction",
   },
 ];
 
