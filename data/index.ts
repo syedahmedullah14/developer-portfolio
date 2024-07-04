@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "Tech stack",
+    description: "I constantly try to improve my",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,8 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title:
+      "Tech enthusiast with a passion for Data Science and Gen AI Development.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +50,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently working on a Ecommerce Chatbot Powered by Gen AI",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -211,13 +212,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/SyedShareefShahzer",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://github.com/SyedShareefShahzer",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/shareef-shahzer/",
   },
 ];
