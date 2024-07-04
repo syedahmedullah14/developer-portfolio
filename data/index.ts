@@ -89,7 +89,7 @@ export const projects = [
     id: 2,
     title: "Automated price estimation of used Cars for a CarTrade Company",
     des: "Designed and implemented a machine learning model to predict car prices for Car24, an online platform for buying and selling used cars.",
-    img: "/car.svg",
+    img: "/price.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
