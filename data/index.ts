@@ -89,7 +89,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "/ui.earth.com",
+    link: "github.com/SyedShareefShahzer/Scaler-Inquiry-Bot",
   },
   {
     id: 2,
@@ -103,7 +103,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "/ui.yoom.com",
+    link: "github.com/SyedShareefShahzer/Cars24-Used-Car-Price-Prediction",
   },
   {
     id: 3,
@@ -117,7 +117,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "/ui.aiimg.com",
+    link: "github.com/SyedShareefShahzer/Ad-Ease-Page-View-Forecasting",
   },
   {
     id: 4,
@@ -131,7 +131,7 @@ export const projects = [
       "/openai.svg",
       "/lang.svg",
     ],
-    link: "/ui.apple.com",
+    link: "github.com/SyedShareefShahzer/OLA-Driver-Attrition-Prediction",
   },
 ];
 
