@@ -71,33 +71,39 @@ export const gridItems = [
 
 export const projects = [
   {
+    // id: 1,
+    // title: "3D Solar System Planets to Explore",
+    // des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    // img: "/p1.svg",
+    // iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    // link: "/ui.earth.com",
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Inquiry Bot for an EdTEch Company",
+    des: "Developed and deployed the Scaler Inquiry Bot, an advance AI-powered assistant for efficiently handling user queries related to curriculum, mentorship, and placement policies, leveraging Gen AI.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Automated price estimation of used Cars for a CarTrade Company",
+    des: "Designed and implemented a machine learning model to predict car prices for Car24, an online platform for buying and selling used cars.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Forecasting Wikipedia Page Views for Optimal Ad Placement.",
+    des: "Developed and implemented a machine learning model to forecast daily Wikipedia page views for Ad Ease, an ads and marketing company. Analyzed data from 145k pages to optimize ad placements, enhancing ad performance across various languages and regions.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Automated Driver Attrition Prediction for Ola",
+    des: "Developed and implemented ensemble models to predict driver attrition at Ola, focusing on demographic, tenure, and performance data. Enhanced retention strategies by analyzing key factors influencing driver turnover and providing actionable insights.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -107,31 +113,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Shareef Shahzer on our data science project was a game-changer. He not only brought technical expertise but also a deep understanding of our business needs. His predictive analytics model helped us reduce operational costs by 20%. We look forward to working with him on future projects.",
+    name: "Jane Doe",
+    title: "Chief Operating Officer, TechCorp Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The data science solutions provided by Shareef Shahzer were instrumental in improving our patient care strategies. His insights into patient data allowed us to tailor treatments more effectively, resulting in a 15% increase in patient satisfaction. His professionalism and commitment to excellence are unparalleled.",
+    name: "John Smith",
+    title: "Director of Data Analytics, HealthPlus",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We were impressed by Shareef Shahzer's ability to transform complex data into actionable business strategies. His work on our customer segmentation project led to a 30% increase in targeted marketing campaign success rates. His collaborative approach and expertise made a significant impact on our business.",
+    name: "Lisa Green",
+    title: "Marketing Manager, Retail Insights",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The predictive models and data visualization tools developed by Shareef Shahzer have revolutionized our approach to risk management. His solutions provided us with clearer insights and more accurate forecasts, reducing our financial risks by 25%. His dedication and technical skill were evident in every step of the project.",
+    name: "Michael Brown",
+    title: "Chief Financial Officer, FinancePro",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Shareef was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Shareef's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
