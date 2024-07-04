@@ -105,7 +105,7 @@ export const projects = [
     id: 4,
     title: "Automated Driver Attrition Prediction for Ola",
     des: "Developed and implemented ensemble models to predict driver attrition at Ola, focusing on demographic, tenure, and performance data. Enhanced retention strategies by analyzing key factors influencing driver turnover and providing actionable insights.",
-    img: "/driver.jpg",
+    img: "/car.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
