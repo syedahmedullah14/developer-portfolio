@@ -95,7 +95,7 @@ export const projects = [
     id: 2,
     title: "Automated price estimation of used Cars for a CarTrade Company",
     des: "Designed and implemented a machine learning model to predict car prices for Car24, an online platform for buying and selling used cars.",
-    img: "/price-p.svg",
+    img: "/linear.png",
     iconLists: [
       "/tensorflow.svg",
       "/azure.svg",
@@ -211,22 +211,22 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Data Science Trainee",
+    desc: "Developed proficiency in Python, TensorFlow, and scikit-learn, successfully executing 15+ ML/DL projects. Reduced project timelines by 25% and enhanced collaboration across 5 teams. Improved performance metrics of 30+ models by 20%, achieving key milestones quickly. Advised on advanced methodologies, increasing predictive analytics accuracy by 30%, enhancing decision-making processes.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Data Analyst",
+    desc: "Utilized data science tools such as Python, R, SQL, and Tableau to clean, analyze, and visualize data, ensuring clarity and impact in client reports.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Data Science and AI Student Scaler Academy",
+    desc: "Completed intensive coursework in machine learning, deep learning, NLP, and data analytics. Worked on real-world projects, building predictive models and developing NLP applications.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -240,7 +240,7 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/medium.svg",
     link: "https://github.com/SyedShareefShahzer",
   },
   {

@@ -15,9 +15,7 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="We'll collaborate to define your data science project's goals, target metrics, and key functionalities. We'll discuss aspects such as data sources, analysis techniques, and model requirements."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -28,9 +26,7 @@ const Approach = () => {
         <Card
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="Once we finalize the plan, I dive into coding and model development. From data preprocessing to model deployment, I keep you updated at every stage, ensuring transparency and collaboration."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -44,15 +40,13 @@ const Approach = () => {
             dotSize={2}
           />
           {/* Radial gradient for the cute fade */}
-          {/* remove this one */}
+          {/* removed this one */}
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="This is where the magic happens! Based on the approved plan, I'll translate everything into functional code, building your data science solution from the ground up."
         >
           <CanvasRevealEffect
             animationSpeed={3}
