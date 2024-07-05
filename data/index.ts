@@ -204,8 +204,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Data Analyst Intern",
+    desc: "Analyzed large datasets to extract actionable insights, supporting data-driven decision-making across multiple projects. Utilized tools like Python, SQL, and Tableau to create data visualizations and reports, enhancing the clarity and impact of data findings.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
