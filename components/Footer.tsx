@@ -34,7 +34,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light md:mb-[-2rem] sm:mb-2">
+        <p className="md:text-base text-sm md:font-normal font-light lg:mb-[-2rem] sm:mb-2">
           Copyright © 2024 Shareef Shahzer
         </p>
 
@@ -42,7 +42,7 @@ const Footer = () => {
           {socialMedia.map((info) => (
             <div
               key={info.id}
-              className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300 mt-4 md:mb-8 lg:mb-0"
+              className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300 mt-4 lg:mb-8"
             >
               <a href={info.link}>
                 <img src={info.img} alt="icons" width={20} height={20} />
