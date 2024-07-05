@@ -49,6 +49,7 @@ export const BentoGridItem = ({
   img?: string;
   imgClassName?: string;
   titleClassName?: string;
+  titleClassName?: string;
   spareImg?: string;
 }) => {
   const leftLists = ["Gen AI", "ML", "Deep learning"];
@@ -66,7 +67,7 @@ export const BentoGridItem = ({
   };
 
   const handleCopy = () => {
-    const text = "shareefshahzer@gmail.com ";
+    const text = "shareefshahzer@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
   };
