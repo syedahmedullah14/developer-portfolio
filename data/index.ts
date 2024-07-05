@@ -241,7 +241,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/medium.svg",
-    link: "https://github.com/SyedShareefShahzer",
+    link: "https://medium.com/@shahzershareef",
   },
   {
     id: 3,
