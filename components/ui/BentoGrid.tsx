@@ -49,7 +49,6 @@ export const BentoGridItem = ({
   img?: string;
   imgClassName?: string;
   titleClassName?: string;
-  titleClassName?: string;
   spareImg?: string;
 }) => {
   const leftLists = ["Gen AI", "ML", "Deep learning"];
